@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Astronomy+Software-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Astronomy-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Hallo Northern Sky Free Installer** — Hallo Northern Sky (HNSKY) is a free, lightweight planetarium and astronomy software for Windows. Works without internet access, no account required. Full offline installation.
+**💻 Hallo Northern Sky Free Installer** — Hallo Northern Sky (HNSKY) is a free, lightweight planetarium program for Windows focusing on deep-sky observation planning. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Hallo Northern Sky
 
-Hallo Northern Sky (HNSKY) is a free, lightweight planetarium and astronomy software for Windows. Display thousands of stars, planets, nebulae, and deep sky objects with real-time tracking of celestial positions. Connect to telescope mounts via ASCOM for computer-aided pointing, plan observing sessions, and print star charts for use at the telescope.
+Hallo Northern Sky (HNSKY) is a free, lightweight planetarium program for Windows focusing on deep-sky observation planning. It provides star charts, DSO catalogs, telescope control, and printable observing lists for amateur astronomers.
 
 ---
 
 ## ❌ Problem: Hallo Northern Sky is hard to access
 
-- **Windows Only** — No macOS or cross-platform version
-- **Interface Dated** — Visual design less polished than commercial planetarium software
-- **Database Size** — Less comprehensive deep-sky database than Stellarium or Cartes du Ciel
-- **Learning Curve** — Astronomy concepts require basic knowledge to use effectively
+- **Windows Only** — No macOS or Linux version
+- **Dated Interface** — UI significantly older than modern astronomy applications
+- **Basic Features** — Less feature-rich than Stellarium or Cartes du Ciel
+- **Narrow Audience** — Specifically for deep-sky visual observation planning
 
 ---
 
@@ -121,7 +121,7 @@ Hallo Northern Sky (HNSKY) is a free, lightweight planetarium and astronomy soft
 
 ---
 
-**Hallo Northern Sky Free Installer** — Hallo Northern Sky (HNSKY) is a free, lightweight planetarium and astronomy software for Windows. Install without internet connection today!
+**Hallo Northern Sky Free Installer** — Hallo Northern Sky (HNSKY) is a free, lightweight planetarium program for Windows focusing on deep-sky observation planning. Install without internet connection today!
 
 <div align="center">
 
